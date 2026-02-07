@@ -1,0 +1,18 @@
+﻿name: xRebirthSMP
+main: com.xrebirth.smp.soulsystem.SoulSystemPlugin
+version: 1.0.0
+api-version: 1.21
+softdepend: [PlaceholderAPI]
+commands:
+  souls:
+    description: Manage or view souls.
+    usage: /souls [check|give|remove|set|reload] <player> [amount]
+    aliases: [soul]
+permissions:
+  xrebirthsmp.souls.admin:
+    description: Allows admin soul management.
+    default: op
+  xrebirthsmp.souls.check:
+    description: Allows /souls check without op.
+    default: true
+

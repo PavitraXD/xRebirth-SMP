@@ -1,0 +1,11 @@
+com\xrebirth\smp\soulsystem\SoulCommand.class
+com\xrebirth\smp\soulsystem\ReviveManager.class
+com\xrebirth\smp\soulsystem\SoulPlaceholderExpansion.class
+com\xrebirth\smp\soulsystem\SoulSystemPlugin$1.class
+com\xrebirth\smp\soulsystem\SoulDataStore.class
+com\xrebirth\smp\soulsystem\SoulSystemPlugin$2.class
+com\xrebirth\smp\soulsystem\AntiFarmTracker.class
+com\xrebirth\smp\soulsystem\SoulPlayerData.class
+com\xrebirth\smp\soulsystem\SoulSystemPlugin.class
+com\xrebirth\smp\soulsystem\SoulConstants.class
+com\xrebirth\smp\soulsystem\SoulManager.class
